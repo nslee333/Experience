@@ -7,14 +7,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
 ## Experience and Knowledge
  
 ### Projects 
@@ -34,17 +26,20 @@ I'm currently working with BendJS to help redesign their website.
 I've built a couple MERN stack applications written with Typescript.
 
 - [Weather-App](https://github.com/nslee333/Weather-App)
-  - 
+  - Weather App:
+    - Consuming and exposing API data.
+    - Fetching current, hourly, daily forecasts.
+    - Multiple cities saved feature with localStorage.
+    - Cooldown feature that after an API request, caches the data on the backend, and serves the cached copy to the client if the API has been requested recently to avoid excessive API requests.
 - [Task-App](https://github.com/nslee333/Task-App)
   - A very basic todo app.
     - Add, remove todo items in react frontend.
 
 ### Certification / Theory
-- PostgreSQL - [Relational Database](https://www.freecodecamp.org/certification/nslee333/relational-database-v8)
-- MongoDB - [MongoDB Node.js Developer Path](https://learn.mongodb.com/c/pxiuuIfSS1-3V-KKy9wzRg)
+- [PostgreSQL](https://www.freecodecamp.org/certification/nslee333/relational-database-v8)
+-  [MongoDB - Node.js Developer Path](https://learn.mongodb.com/c/pxiuuIfSS1-3V-KKy9wzRg)
 - [AWS Cloud Practioner](https://aws.amazon.com/training/learn-about/cloud-practitioner/?th=tile&tile=learnabout) - in progress.
 - [AWS Cloud Developer](https://aws.amazon.com/training/learn-about/developer/?th=tile&tile=learnabout) - in progress.
-
 
 ### Programming Books
 - [The Art of Clean Code by Christian Mayer](https://www.amazon.com/Art-Clean-Code-Practices-Complexity/dp/1718502184/ref=sr_1_1?keywords=the+art+of+clean+code&s=books&sr=1-1)
@@ -93,7 +88,6 @@ I've built a couple MERN stack applications written with Typescript.
 - Self Management
 - Optimism
   
-
 ---
 
 ### Certifications
@@ -104,7 +98,6 @@ I've built a couple MERN stack applications written with Typescript.
   - [Relational Database](https://www.freecodecamp.org/certification/nslee333/relational-database-v8)
   - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/nslee333/javascript-algorithms-and-data-structures)
   - [Responsive Web Design](https://www.freecodecamp.org/certification/nslee333/responsive-web-design)
-
 
 
 ---

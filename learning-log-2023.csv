@@ -1,0 +1,89 @@
+1-Jan,1:30:52,"Fixed bug, figured out weather api issue."
+2-Jan,3:37:39,Searched and found API replacement.
+3-Jan,6:13:15,"Learned how to query the AccuWeather api, integrating it my backend, and started outline for client side."
+4-Jan,2:57:06,"Styling, CDN fonts, working on data retrieval."
+5-Jan,4:09:03,"Styling, data retrevial typings client side"
+6-Jan,10:32:21,Bunch of front-end work - navbar and variableBar.
+7-Jan,11:00:59,Bunch of front-end work - variable bar settings and home.
+,40:01:15,
+8-Jan,0:00:00,
+9-Jan,4:05:55,"Styling for hourly, data validation for settings, express fix."
+10-Jan,5:32:40,"Implemented cooldown for backend, data caching on backend, displaying hourly forecasts and hour display"
+11-Jan,4:27:41,"Researching Displaying a radar map, decided against it, Brainstorming for next projects, worked on world comp"
+12-Jan,9:43:59,"City rendering, input validation, moved dataValidation into it's own function, started modying backend for data."
+13-Jan,7:30:06,"City data fetching, not quite working yet, city display almost finished, almost done with project. started icons"
+14-Jan,4:54:26,"City data backend fix, weather icons implemented, loading default display"
+,36:14:47,
+15-Jan,1:40:59,"Debugged a city display issue, figuring out localStorage,"
+16-Jan,1:23:57,"Mostly front-end display changes, trying to figure out how to sustain userSavedCities."
+17-Jan,5:48:51,"OpenWeatherMap api swap out, writing forecast algorithm"
+18-Jan,3:17:00,"weatherAPI done, Server re-written, debugging issues."
+19-Jan,2:54:29,"Cooldown added on server side, fixed types, ported to client side, actions.ts re-written and done."
+20-Jan,10:08:25,"re-wrote most of App.tsx today, sustaining data between renders."
+21-Jan,7:07:07,"MVP of Weather App done, bunch of bug fixes, mostly related to city rendering."
+,32:20:48,
+22-Jan,,
+23-Jan,2:13:44,"Little bit of clean up, horrible sleep the night before."
+24-Jan,1:49:41,"Clean up of weather_app, went to BendJS."
+25-Jan,4:05:15,"Documenting functions in App, started working on moving functions and components into their own files."
+26-Jan,1:41:47,"Ended up getting a haircut and going to get groceries, not the most progress."
+27-Jan,8:24:41,"weather_app completed - 27 days from start to finish, researching domain names, kevin, bendjs website"
+28-Jan,1:32:19,"Not much programming, figuring out next project, BendJS and , and errands today"
+,19:47:27,
+29-Jan,,
+30-Jan,1:59:31,"BendJS meeting and planning, set up branch, minor stuff."
+31-Jan,5:31:57,"Setup redesign branch for BendJS, spent majority of time with figma for mockup of BendJS."
+1-Feb,4:21:00,Figma mockup work.
+2-Feb,1:28:34,Figma mockup work - bunch of errands today unfortunately.
+3-Feb,8:58:28,Figma mockup work - outline finished - polishing from here.
+4-Feb,7:38:51,"Figma mockup work - Polishing finished, next stop is input then start to build,"
+,29:58:21,
+5-Feb,,
+6-Feb,4:52:07,Figma mockup work - draft #2.
+7-Feb,5:24:25,Started work on redesign branch - not very happy with progress today.
+8-Feb,3:01:05,Working on the header - didn't do to well.
+9-Feb,0:00:00,Working on taxes
+10-Feb,7:12:37,"Taxes stuff in the morning, header and welcome done, responsive design is pretty tough :)"
+11-Feb,7:43:05,"Sponsors section, socials, gallery, member spotlight init"
+,28:13:19,
+12-Feb,,
+13-Feb,4:23:02,Working on member section - pain in the butt
+14-Feb,3:00:25,"Member section, almost done"
+15-Feb,3:04:37,"Member section mostly done, started on StayConnected.js"
+16-Feb,2:11:09,StayConnected.js work
+17-Feb,8:13:47,Redesign design finished - a lot of work
+18-Feb,7:28:34,CSS styling standardization + researching headless CMS solution
+,28:21:34,
+19-Feb,0:00:00,
+20-Feb,0:00:00,Errands and lack of sleep - no work
+21-Feb,2:55:29,Trying to find a good gallery to use
+22-Feb,4:07:05,"Got gallery working, trying to figure out the website / CMS problem - not bad progress wise"
+23-Feb,3:49:19,"a Next.js-Sanity-Netlify app Looks good, trying to hammer out details or if Netlify CMS w/ React is the route."
+24-Feb,8:33:56,Finished up research for NSN app - Finished up polishing main site - started a nextjs brach for migration
+25-Feb,2:23:12,Working on migrating react project to next.js
+,21:49:01,
+26-Feb,0:00:00,
+27-Feb,2:54:15,"Got next.js to compile, now working on getting it to display properly."
+28-Feb,5:15:38,"Got 99% displaying properly, really happy with progress today."
+1-Mar,4:19:10,"Call with Kyle, Figuring out how to display on mobile, initial draft done"
+2-Mar,4:31:57,"Background back to the mockup, working on implementing CMS, started cms-integ branch"
+3-Mar,3:06:33,"Partially worked on next-sanity, but mostly worked on Kyle's suggestions for frontend, fixed bug, and other stuff"
+4-Mar,7:36:07,"Got Contact form implemented, tried to find a hero image, researched cms integration not super happy with progress today"
+,27:43:17,"Week Goals: Want to wrap up frontend, get approval for logo use, and mostly done with CMS integration"
+5-Mar,4:12:14,Figured out how to embed Sanity Studio in BendJS website
+6-Mar,4:40:32,"Worked on CMS content displaying on website, lack of sleep last night so that didn't help."
+7-Mar,5:25:22,"CMS DONE!!! :D Worked a little on, super smooth and worked well"
+8-Mar,3:36:12,"Basically found 3 hero images, working on wireframe for Slides/Speakers, did some Networking"
+9-Mar,3:41:59,"Working on mockup and implem of dropdown link menu for BendJS website,"
+10-Mar,6:45:00,"Finished dropdown feature, moving forward with frontend"
+11-Mar,6:28:38,"Frontend almost done, worked mostly on dropdown , misc tasks performed, finished Eloquent JS, Started reading AWS today"
+,34:49:57,"Week Review: Got CMS integ done, more progress with frontend, coming close to the end of the first page."
+,Goals,"Finish frontend, get approvals done, merge cms with next and launch"
+12-Mar,2:37:34,Aws Dev
+13-Mar,0:00:00,Break day
+14-Mar,2:56:49,"Fixed mobile issue, merged cms-integ with nextjs, stopped with trying to fix build error :)"
+15-Mar,3:17:02,"Submitted site for review with youtube and slack, start planning for slides/previous speakers, AWS dev"
+16-Mar,3:40:35,AWS Dev learning path
+17-Mar,6:40:23,AWS learning + BendJS meetup
+18-Mar,8:16:15,Cleaning up Github profile and setting up resume
+,27:37:48,

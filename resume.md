@@ -45,7 +45,7 @@ I've built a couple MERN stack applications written with Typescript.
 - [The Rust Programming Language by Steve Klabnik](https://www.amazon.com/Rust-Programming-Language-2nd/dp/1718503105/ref=d_bmx_dp_il2yl76n_sccl_3_2/132-1768946-1336236?pd_rd_w=TUUpi&content-id=amzn1.sym.98df316a-7a35-491b-8a8a-7bb969e05c02&pf_rd_p=98df316a-7a35-491b-8a8a-7bb969e05c02&pf_rd_r=QZ02DPQS49XTCM323F67&pd_rd_wg=d42oZ&pd_rd_r=3bda35ce-8eda-48b6-802d-b0c967af0097&pd_rd_i=1718503105&psc=1)
 - [Algorithms by Panos Louridas](https://www.amazon.com/Algorithms-MIT-Press-Essential-Knowledge/dp/0262539020/ref=sr_1_12?keywords=algorithms&s=books&sr=1-12)
 - [Web Security for Developers by Malcom McDonald](https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald/dp/1593279949/ref=sr_1_1?keywords=web+security+for+developers+real+threats%2C+practical+defense&s=books&sr=1-1) - in progress
-- [Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=tmm_hrd_swatch_0?_encoding=UTF8&sr=1-1) - This isn't a programming book, but the skills and lessons I gained from this book had a massive impact on how I set up my environment, and how I approach maintaining and increasing my ability to focus for long sessions.
+- [Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=tmm_hrd_swatch_0?_encoding=UTF8&sr=1-1) - This isn't a programming book, but it made me realize how important focus is and how to cultivate it as a skill.
 ---
 
 ## Skills
@@ -53,7 +53,7 @@ I've built a couple MERN stack applications written with Typescript.
 ### Languages
 - Typescript
 - Javascript
-- Rust - Mostly theoretical knowledge
+- Rust - (I've read the Rust Programming Language book, but I don't have much hands-on experience with it)
 - Bash
 - Python - currently learning
 - HTML / CSS

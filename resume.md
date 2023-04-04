@@ -57,14 +57,17 @@ I've built a couple MERN stack applications written with Typescript.
 - Bash
 - Python - currently learning
 - HTML / CSS
+- Solidity
+- Cadence
 
 ### Web Related Tools
 - React.js
 - Next.js
-- Express.js
-- Mocha.js
-- Chai.js
-- Axios HTTP.
+- Express.js - Web Framework
+- Mocha.js - Test Framework
+- Chai.js - Assertion Library
+- Axios HTTP
+- Tailwind CSS
 
 ### Other tools
 - Git
@@ -76,6 +79,11 @@ I've built a couple MERN stack applications written with Typescript.
 - Sanity.io
 - Figma
 - Miro
+- Hardhat
+
+### Data Visualization
+- Matplotlib
+- Plotly
 
 ### Soft Skills
 - Discipline

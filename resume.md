@@ -12,14 +12,18 @@
 
 BendJS Website - I'm currently working with BendJS to help redesign their website.
 - [The BendJS Website Repo](https://github.com/BendJS/simple-website/tree/nextjs)
+- Updated dependencies to latest version and fixed breaking changes.
 - Established goals for the project.
 - Created a mockup.
-- Implemented mockup in react.
-- Researched different headless CMS.
+- Implemented mockup in React.js.
+- Researched different headless CMS systems to use for project.
 - Migrated redesign in React to Next.js.
 - Embedded Sanity Studio in Next.js.
 - Worked with multiple branches in git, performed and fixed merge conflicts.
+- Demoed project to client using Netlify.
 - Fixed Netlify build errors.
+- Migrated styling to Tailwind to make website more responsive for mobile devices.
+- Researched logo policies for Youtube, Slack and others for use in website, got in contact and went through changing the design to meet their criteria.
 
 I've built a couple MERN stack applications written with Typescript.
 

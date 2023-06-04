@@ -1,3 +1,5 @@
+-----
+
 [Calculator](https://github.com/nslee333/Calculator) - Built with react and Typescript
 
 [Task App](https://github.com/nslee333/Task-App) - MERN Task App with Typescript / React frontend and Typescript MongoDB backend.
@@ -8,5 +10,6 @@
 
 [News App](https://github.com/nslee333/news_project) - News application built using Laravel/PHP and Inertia/React using the NewsAPI
 
-[Laravel Task App](https://github.com/nslee333/laravel_task_app) - Task App built using Laravel, SQLite,and Inertia / React.
+[Laravel Task App](https://github.com/nslee333/laravel_task_app) - Task App built using Laravel, SQLite, and Inertia / React.
 
+-----

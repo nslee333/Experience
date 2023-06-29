@@ -6,36 +6,74 @@
 
 ---
 
-## Experience and Knowledge
+## Experience
  
-### Projects 
+## Projects 
 
-BendJS Website - I'm currently working with BendJS to help redesign their website.
-- [The BendJS Website Repo](https://github.com/BendJS/simple-website/tree/nextjs)
-- Updated dependencies to latest version and fixed breaking changes.
-- Established goals for the project.
-- Created a mockup.
-- Implemented mockup in React.js.
-- Researched different headless CMS systems to use for project.
-- Migrated redesign in React to Next.js.
-- Embedded Sanity Studio in Next.js.
-- Worked with multiple branches in git, performed and fixed merge conflicts.
-- Demoed project to client using Netlify.
-- Fixed Netlify build errors.
-- Migrated styling to Tailwind to make website more responsive for mobile devices.
-- Researched logo policies for Youtube, Slack and others for use in website, got in contact and went through changing the design to meet their criteria.
+  - BendJS Website
+  - [The BendJS Website Repo](https://github.com/BendJS/simple-website/tree/nextjs)
+    - Updated dependencies to latest version and fixed breaking changes.
+    - Established goals for the project.
+    - Created a mockup.
+    - Implemented mockup in React.js.
+    - Researched different headless CMS systems to use for project.
+    - Migrated redesign in React to Next.js.
+    - Embedded Sanity Studio in Next.js.
+    - Worked with multiple branches in git, performed and fixed merge conflicts.
+    - Demoed project to client using Netlify.
+    - Fixed Netlify build errors.
+    - Migrated styling to Tailwind to make website more responsive for mobile devices.
+    - Researched logo policies for Youtube, Slack and others for use in website, got in contact and went through changing the design to meet their criteria.
+    - Setup Smoke and Snapshot tests using Jest and React-Testing-Library for the compoents.
+    - Stack
+      - JAMstack
+        - Javascript-API-Markup
+      - React.js
+      - Sanity.io CMS
+      - Netlify for hosting
 
-I've built a couple MERN stack applications written with Typescript.
+## Smaller Projects
 
-- [Weather-App](https://github.com/nslee333/Weather-App)
-  - Weather App:
-    - Consuming and exposing API data.
-    - Fetching current, hourly, daily forecasts.
-    - Multiple cities saved feature with localStorage.
-    - Cooldown feature that after an API request, caches the data on the backend, and serves the cached copy to the client if the API has been requested recently to avoid excessive API requests.
-- [Task-App](https://github.com/nslee333/Task-App)
-  - A very basic todo app.
-    - Add, remove todo items in react frontend.
+React / Node.js projects
+  - [Weather-App](https://github.com/nslee333/Weather-App)
+    - Weather App:
+      - Consuming and exposing API data.
+      - Fetching current, hourly, daily forecasts.
+      - Multiple cities saved feature with localStorage.
+      - Cooldown feature that after an API request, caches the data on the backend, and serves the cached copy to the client if the API has been requested recently to avoid excessive API requests.
+  - [Task-App](https://github.com/nslee333/Task-App)
+    - A very basic todo app.
+      - Add, remove todo items.
+    - Stack
+      - MongoDB
+      - Express.js Backend written in Typescript
+      - React with Typescript client side.
+      - Axios.js for client requests.
+
+  Laravel / PHP Projects
+  - [News Project](https://github.com/nslee333/news_project)
+    - News Feed app that takes data from the NewsAPI and displays it to the user.
+    - Setup unit tests for controller.
+    - Setup api tests to check proper operation.
+    - Stack
+      - Laravel with Inertia.js for React
+      - PHP
+      - Javascript
+      - React.js
+      - useReducer react hook
+    
+  - [Task App](https://github.com/nslee333/laravel_task_app)
+    - Basic task app that uses laravel's authentication features to keep track of user's tasks.
+    - Once you login you can add or delete tasks.
+    - I initialized and used SQLite for the database, and added a migration to add a tasks array to a User entry. 
+    - I have added a few http tests for web.php's routes and testing TaskController indirectly through the /tasks routes. 
+    - Stack
+      - Laravel with Inertia.js for React
+      - PHP
+      - SQLite
+      - Javascript
+      - React.js
+    
 
 ### Certifications
 - [FreeCodeCamp Relational Databases Certification with PostgreSQL](https://www.freecodecamp.org/certification/nslee333/relational-database-v8)

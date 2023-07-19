@@ -152,8 +152,3 @@ React / Node.js projects
 
 ---
 <br>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,express,mongodb,postgres,react,next,rust,bash,solidity,linux,git,nodejs,)](https://skillicons.dev)
-
-
-![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nslee333&show_icons=true&theme=chartreuse-dark)

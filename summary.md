@@ -97,7 +97,7 @@ React / Node.js projects
 - Go
 - Rust - Mostly book knowledge.
 - Bash
-- Python - Little with Dataviz work,.
+- Python - 
 - HTML / CSS
 - Solidity
 - Cadence
@@ -125,6 +125,7 @@ React / Node.js projects
 - Figma
 - Miro
 - Hardhat
+- VS Code
 
 ### Data Visualization
 - Matplotlib

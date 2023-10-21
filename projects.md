@@ -12,4 +12,6 @@
 
 [Laravel Task App](https://github.com/nslee333/laravel_task_app) - Task App built using Laravel, SQLite, and Inertia / React.
 
+[Personal Site](https://github.com/nslee333/nslee333.github.io) - Static Site using Github Pages, HTML/CSS, JS.
+
 -----
